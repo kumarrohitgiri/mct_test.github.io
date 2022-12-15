@@ -1,0 +1,834 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+.Container1{
+    width: 100%;
+    height: 15vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.containerdiv1{
+    width: 15%;
+    height: 6vh;
+    background-image: url("./images/Puphub.png");
+    background-position: center;
+    background-size: cover;
+}
+.containerdiv2{
+    width: 10%;
+    height: 4vh;
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.containerdiv3{
+    width: 10%;
+    height: 4vh;
+    
+    color: black;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.containerdiv4{
+    width: 10%;
+    height: 4vh;
+   
+     color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv5{
+    width: 10%;
+    height: 4vh;
+ 
+    color: black;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.containerdiv6{
+    width: 10%;
+    height: 4vh;
+    
+    color: black;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.containerdiv7{
+    width: 10%;
+    height: 4vh;
+    background-color: #2F4F4F;
+    border-radius: 5px;
+    
+    color: white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.containerdiv8{
+    width: 10%;
+    height: 4vh;
+    background-color: #E0FFFF;
+    color: black;
+    border-radius: 5px;
+
+    
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.Container2{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./images/Vector\ 1.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.containerdiv21{
+    width: 30%;
+    height: 70vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.containerdiv210{
+    width:100% ;
+    height: 15vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .containerdiv210 ,h2{
+    
+    font-size: 170%
+    
+}
+.containerdiv211{
+    width:100% ;
+    height: 15vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv211 , p{
+    font-size: 120%;
+   
+}
+.containerdiv212{
+    width:100% ;
+    height: 15vh;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.containerdiv212 button{
+    width: 50%;
+    height: 10vh;
+    font-size: 110%;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #2F4F4F;
+    color: white;
+}
+.containerdiv22{
+    width: 40%;
+    height: 50vh;
+    
+    
+    background-image: url("./images/Vector\ \(1\).jpg");
+
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Container3{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.containerdiv30{
+    width: 100%;
+    height: 5vh;
+   
+}
+.containerdiv30 h2{
+    margin-left: 80px;
+    font-size: 160%;
+    font-weight: bold;
+    
+}
+.containerdiv31{
+    width: 90%;
+    height: 30vh;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+.containerdiv310{
+    width: 10%;
+    height: 30vh;
+   
+    background-image: url("./images/Rectangle\ 16.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv311{
+    width: 10%;
+    height: 30vh;
+   
+    background-image: url("./images/Rectangle\ 17.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv312{
+    width: 10%;
+    height: 30vh;
+   
+    background-image: url("./images/Rectangle\ 18.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.containerdiv313{
+    width: 10%;
+    height: 30vh;
+   
+    background-image: url("./images/Rectangle\ 19.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.containerdiv314{
+    width: 10%;
+    height: 30vh;
+  
+    background-image: url("./images/Rectangle\ 20.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.containerdiv32{
+    width: 100%;
+    height: 60vh;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.containerdiv320{
+    width: 40%;
+    height: 50vh;
+   
+    background-image: url("./images/Vector\ \(5\).png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+    
+}
+.containerdiv321{
+    width: 40%;
+    height: 50vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.containerdiv3210{
+    width: 90%;
+    height: 15vh;
+   
+}
+.containerdiv3210 h5{
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.containerdiv3211{
+    width: 90%;
+    height: 20vh;
+   
+}
+.containerdiv3211 p{
+    font-size: 140%;
+}
+.containerdiv3212{
+    width: 90%;
+    height: 10vh;
+   
+}
+.containerdiv3212 .button2{
+    width: 30%;
+    height: 10vh;
+    border: none;
+    background-color:#2F4F4F ;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+
+.Container4{
+    width: 100%;
+    height: 100vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+    
+}
+.containerdiv40{
+    width: 100%;
+    height: 10vh;
+    
+}
+.containerdiv40 p{
+    font-size: 170%;
+   
+}
+.containerdiv41{
+    width: 100%;
+    height: 10vh;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.containerdiv41 h3{
+    font-size: 170%;
+}
+.containerdiv41 .button3{
+    width: 10%;
+    height: 10vh;
+    margin-right: 40px;
+    background-color: #2F4F4F;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+
+.containerdiv42{
+    width: 100%;
+    height: 75vh;
+    
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.containerdiv420{
+    width: 100%;
+    height: 40vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.containerdiv4201{
+    width: 30%;
+    height: 35vh;
+    
+    background-image: url("./images/vec1.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.containerdiv4202{
+    width: 30%;
+    height: 35vh;
+  
+    background-image: url("./images/vec3.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.containerdiv4203{
+    width: 30%;
+    height: 35vh;
+   
+    background-image: url("./images/vect2.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.containerdiv421{
+    width: 100%;
+    height: 20vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.containerdiv4210{
+    width:30% ;
+    height: 20vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv4210 h4{
+    font-size: 170%;
+}
+.containerdiv4210 p{
+    font-size: 150%;
+    color: #2F4F4F;
+}
+.containerdiv4211{
+    width:30% ;
+    height: 20vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv4211 h4{
+    font-size: 170%;
+}
+.containerdiv4211 p{
+    font-size: 150%;
+    color: #2F4F4F;
+}
+.containerdiv4212{
+    width:30% ;
+    height: 20vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv4212 h4{
+    font-size: 170%;
+}
+.containerdiv4212 p{
+    font-size: 150%;
+    color: #2F4F4F;
+}
+.containerdiv422{
+    width: 100%;
+    height: 10vh;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.containerdiv422 .button4{
+    width: 15%;
+    border: 3px solid rgb(167, 157, 157);
+    background-color: white;
+    font-size: 170%;
+    color: #2F4F4F;
+    border-radius: 5px;
+}
+
+.Container5{
+    width: 100%;
+    height: 100vh;
+    background-image:url("./images/Rectangle\ 28.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+     justify-content: space-around;
+}
+.containerdiv50{
+    width: 35%;
+    height: 60vh;
+    
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.containerdiv50 h4{
+    font-size: 200%;
+}
+.containerdiv51{
+    width: 50%;
+    height: 90vh;
+    
+    display: flex;
+    align-items: center;
+    justify-self: center;
+   
+}
+.containerdiv50 p{
+    font-size: 150%;
+    margin-top: 20px;
+    color: #2F4F4F;
+}
+.containerdiv50 .button5{
+    font-size: 25px;
+    width: 33%;
+    height: 10vh;
+    margin-top: 10px;
+    border: none;
+    background-color: #2F4F4F;
+    border-radius: 5px;
+    color: white;
+
+}
+.Container6{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+.containerdiv60{
+    width: 100%;
+    height: 10vh;
+   
+}
+.containerdiv60 h2{
+    font-size: 240%;
+   
+    margin-left: 120px;
+    
+}
+.containerdiv61{
+    width: 90%;
+    height: 60vh;
+    
+    background-image: url("./images/Rectangle\ 21.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+
+}
+.containerdiv610{
+    width: 30%;
+    height: 60vh;
+    
+ 
+}
+.containerdiv611{
+    width: 30%;
+    height: 60vh;
+    
+    
+}
+
+.containerdiv612{
+    width: 30%;
+    height: 60vh;
+   
+   
+}
+
+
+.containerdiv62{
+    width: 100%;
+    height: 20vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv62 .button6{
+    width: 15%;
+    height: 10vh;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2F4F4F;
+    color: wheat;
+
+}
+.Container7{
+    width: 100%;
+    height: 80vh;
+   
+    background-image: url("./images/Rectangle\ 28.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.containerdiv70{
+    width: 50%;
+    height: 10vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv70 h2{
+font-size: 230%;
+font-weight: bold;
+}
+.containerdiv71{
+    width: 50%;
+    height: 15vh;
+    
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.containerdiv71 .button7{
+    width: 20%;
+    height: 10vh;
+    margin-right: 10px;
+    font-size: 20px;
+    background-color: #2F4F4F;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+.containerdiv710{
+    width: 40%;
+    height: 15vh;
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.containerdiv710 p{
+    font-size: 130%;
+    color: #8f9292;
+}
+.containerdiv72{
+    width: 90%;
+    height: 30vh;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.containerdiv720{
+    width: 20%;
+    height: 15vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv720 h2{
+    font-size: 100%;
+    text-align: center;
+}
+.containerdiv7201{
+    width: 90%;
+    height: 10vh;
+ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.containerdiv72011{
+    width: 40%;
+    height: 9vh;
+  
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv72012{
+    width: 40%;
+    height: 9vh;
+   
+   
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.containerdiv721{
+    width: 30%;
+    height: 25vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv721 h2{
+    font-size: 100%;
+    font-weight: bold;
+
+}
+.containerdiv721 p{
+    color: #2F4F4F;
+}
+.containerdiv721 .p1{
+    font-size: 200%;
+    color: rgb(62, 62, 148);
+}
+
+.containerdiv722{
+    width: 30%;
+    height: 25vh;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.containerdiv722 h2{
+    font-size: 100%;
+    font-weight: bold;
+
+}
+.containerdiv722 p{
+    color: #2F4F4F;
+}
+.containerdiv722 .p1{
+    font-size: 200%;
+    color: rgb(62, 62, 148);
+}
+.containerdiv73{
+    width: 100%;
+    height: 10vh;
+   
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+}
+.containerdiv730{
+    width: 36%;
+    height: 10vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv731{
+    width: 10%;
+    height: 10vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#line{
+    width: 100%;
+    color: black;
+}
+.containerdiv732{
+    width: 10%;
+    height: 10vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv733{
+    width: 10%;
+    height: 10vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv734{
+    width: 10%;
+    height: 10vh;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdiv735{
+    width: 10%;
+    height: 10vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
